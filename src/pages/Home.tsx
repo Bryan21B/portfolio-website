@@ -1,5 +1,17 @@
 const Home = () => {
-  return <div>Home</div>;
+  return (
+    <div className="min-h-screen ">
+      {/* Theme Toggle */}
+
+      {/* Background Effects */}
+
+      {/* Navbar */}
+
+      {/* Main content */}
+
+      {/* Footer */}
+    </div>
+  );
 };
 
 export default Home;
