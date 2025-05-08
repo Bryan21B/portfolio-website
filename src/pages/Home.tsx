@@ -1,6 +1,6 @@
 const Home = () => {
   return (
-    <div className="min-h-screen ">
+    <div className="text-foreground background-background min-h-screen overflow-x-hidden">
       {/* Theme Toggle */}
 
       {/* Background Effects */}
